@@ -1,1 +1,8 @@
 C:\Users\APearson\Documents\Apprenticeship Evidence\Year 2\GitHub\Strings\StringsAndCharacterEncodings\StringsAndCharacterEncodings\bin\Debug\StringsAndCharacterEncodings.exe.config
+C:\Users\APearson\Documents\Apprenticeship Evidence\Year 2\GitHub\Strings\StringsAndCharacterEncodings\StringsAndCharacterEncodings\bin\Debug\StringsAndCharacterEncodings.exe
+C:\Users\APearson\Documents\Apprenticeship Evidence\Year 2\GitHub\Strings\StringsAndCharacterEncodings\StringsAndCharacterEncodings\bin\Debug\StringsAndCharacterEncodings.pdb
+C:\Users\APearson\Documents\Apprenticeship Evidence\Year 2\GitHub\Strings\StringsAndCharacterEncodings\StringsAndCharacterEncodings\obj\Debug\StringsAndCharacterEncodings.csprojResolveAssemblyReference.cache
+C:\Users\APearson\Documents\Apprenticeship Evidence\Year 2\GitHub\Strings\StringsAndCharacterEncodings\StringsAndCharacterEncodings\obj\Debug\StringsAndCharacterEncodings.exe
+C:\Users\APearson\Documents\Apprenticeship Evidence\Year 2\GitHub\Strings\StringsAndCharacterEncodings\StringsAndCharacterEncodings\obj\Debug\StringsAndCharacterEncodings.pdb
+C:\Users\APearson\Documents\Apprenticeship Evidence\Year 2\GitHub\Strings\StringsAndCharacterEncodings\StringsAndCharacterEncodings\bin\Debug\CsvHelper.dll
+C:\Users\APearson\Documents\Apprenticeship Evidence\Year 2\GitHub\Strings\StringsAndCharacterEncodings\StringsAndCharacterEncodings\bin\Debug\CsvHelper.xml
